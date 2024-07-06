@@ -18,3 +18,5 @@ MonoBehaviour:
   steerLeftKey: 97
   boostKey: 304
   brakeKey: 32
+  upGearKey: 101
+  downGearKey: 113

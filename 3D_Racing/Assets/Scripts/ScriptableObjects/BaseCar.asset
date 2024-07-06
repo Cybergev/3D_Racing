@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 419cd4b908ec8ba4ea804d2a2e4e152f, type: 3}
+  m_Name: BaseCar
+  m_EditorClassIdentifier: 
+  mass: 2000
+  speedMax: 200
+  cassisAsset: {fileID: 11400000, guid: 6060f3a6c094d4344adc592de576a0db, type: 2}
+  gearBoxAsset: {fileID: 11400000, guid: 330aacf0d29f0e942a363044e41963e1, type: 2}
+  engineAsset: {fileID: 11400000, guid: e0c7af204912a2d40801b44055406062, type: 2}
