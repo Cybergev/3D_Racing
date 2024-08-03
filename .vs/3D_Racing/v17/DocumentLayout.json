@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|c:\\users\\public\\documents\\github projects\\sf_3d_racing\\3d_racing\\assets\\scripts\\ui\\uifillamountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uifillamountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|c:\\users\\public\\documents\\github projects\\sf_3d_racing\\3d_racing\\assets\\scripts\\ui\\uitextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uitextcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\assets\\scripts\\car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\assets\\scripts\\car\\carchassis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car\\carchassis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\assets\\scripts\\car\\wheelaxle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car\\wheelaxle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\assets\\scripts\\assets\\carengineasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assets\\carengineasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\assets\\scripts\\assets\\cargearboxasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assets\\cargearboxasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\assets\\scripts\\car\\cargearbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843CEF57-D9A0-57A2-EF02-A03AA2DAF28D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car\\cargearbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UiTextController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Ui\\UiTextController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\UiTextController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Ui\\UiTextController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ui\\UiTextController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:05:30.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UiFillAmountController.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Ui\\UiFillAmountController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\UiFillAmountController.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Ui\\UiFillAmountController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ui\\UiFillAmountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:05:14.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarChassis.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Car\\CarChassis.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car\\CarChassis.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Car\\CarChassis.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car\\CarChassis.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wF8AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:34:02.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WheelAxle.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Car\\WheelAxle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car\\WheelAxle.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Car\\WheelAxle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car\\WheelAxle.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwE0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:39:52.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarEngineAsset.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Assets\\CarEngineAsset.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assets\\CarEngineAsset.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Assets\\CarEngineAsset.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assets\\CarEngineAsset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:26:16.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Car\\Car.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car\\Car.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Car\\Car.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T01:17:33.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarGearBoxAsset.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Assets\\CarGearBoxAsset.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assets\\CarGearBoxAsset.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Assets\\CarGearBoxAsset.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assets\\CarGearBoxAsset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T01:08:12.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarGearBox.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Car\\CarGearBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car\\CarGearBox.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\GitHub Projects\\SF_3D_Racing\\3D_Racing\\Assets\\Scripts\\Car\\CarGearBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car\\CarGearBox.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:18:57.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
