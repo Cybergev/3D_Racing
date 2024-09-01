@@ -20,6 +20,8 @@ sysinfo.txt
 *.booproj
 *.csproj
 *.sln
+*.vsidx
+*.vsconfig
 *.suo
 *.svd
 *.unityproj
