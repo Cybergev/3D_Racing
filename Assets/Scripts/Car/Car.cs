@@ -22,7 +22,7 @@ public class Car : MonoBehaviour
     public CarChassis Cassis => cassis;
     public CarGearBox GearBox => gearBox;
     public CarEngine Engine => engine;
-    public float Speed => rigid.velocity.magnitude * 3.6f;
+    public float Speed => rigid.linearVelocity.magnitude * 3.6f;
     public float WheelSpeed => cassis.CurrentWheelSpeed;
     public float MotorForce { private set; get; }
     public float SteerForce { private set; get; }

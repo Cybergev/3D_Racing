@@ -76,12 +76,12 @@ public class CarChassis : MonoBehaviour
 
     private void UpdatelinearDrag()
     {
-        car.Rigid.drag = LinearDragCurve.Evaluate(car.Speed / CarAsset.SpeedMax) * LinearDragMax;
+        car.Rigid.linearDamping = LinearDragCurve.Evaluate(car.Speed / CarAsset.SpeedMax) * LinearDragMax;
     }
 
     private void UpdateAngularDrag()
     {
-        car.Rigid.angularDrag = AngularDragCurve.Evaluate(car.Speed / CarAsset.SpeedMax) * AngularDragMax;
+        car.Rigid.angularDamping = AngularDragCurve.Evaluate(car.Speed / CarAsset.SpeedMax) * AngularDragMax;
     }
 
     private void UpdateDownForce()

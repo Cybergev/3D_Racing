@@ -145,9 +145,9 @@ public class WheelAxle
     private void ApplyDownForce()
     {
         if (rightWheelCollider.isGrounded)
-            rightWheelCollider.attachedRigidbody.AddForceAtPosition(RighWheeltHit.normal * -additionalWheelDownForce * rightWheelCollider.attachedRigidbody.velocity.magnitude, rightWheelCollider.transform.position);
+            rightWheelCollider.attachedRigidbody.AddForceAtPosition(RighWheeltHit.normal * -additionalWheelDownForce * rightWheelCollider.attachedRigidbody.linearVelocity.magnitude, rightWheelCollider.transform.position);
         if (leftWheelCollider.isGrounded)
-            leftWheelCollider.attachedRigidbody.AddForceAtPosition(LeftWheelHit.normal * -additionalWheelDownForce * leftWheelCollider.attachedRigidbody.velocity.magnitude, leftWheelCollider.transform.position);
+            leftWheelCollider.attachedRigidbody.AddForceAtPosition(LeftWheelHit.normal * -additionalWheelDownForce * leftWheelCollider.attachedRigidbody.linearVelocity.magnitude, leftWheelCollider.transform.position);
     }
     private void CorrectStiffness()
     {
